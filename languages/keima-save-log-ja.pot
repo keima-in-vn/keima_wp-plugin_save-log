@@ -1,0 +1,38 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-06 12:05+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: keima save log\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Export log"
+msgstr "ログをエクスポート"
+
+msgid "Specify the period: "
+msgstr "期間指定："
+
+msgid "* If you do not specify it, you can leave it blank. If not entered, the entire period will be covered."
+msgstr "※指定しない場合は、未入力のままで大丈夫です。未入力の場合には、全期間が対象となります。"
+
+msgid "Log"
+msgstr "ログ"
+
+msgid "Log list"
+msgstr "ログ一覧"
+
+msgid "The latest 10 items are displayed (10 or more records are stored in the database)."
+msgstr "本ページでは最新の10件まで表示しています（それ以降のデータもデータベースには保存されています）。"
+
+msgid "There is no log data."
+msgstr "ログデータはありません。"
+
+msgid "Log data export"
+msgstr "エクスポートログデータ"
